@@ -7,10 +7,10 @@
 	  "windows": [
 		{
 		  "url": "https://weread.qq.com/",
-		  "transparent": true,
+		  "transparent": false,
 		  "fullscreen": false,
-		  "width": 1200,
-		  "height": 780,
+		  "width": 1920,
+		  "height": 1080,
 		  "resizable": true
 		}
 	  ],
